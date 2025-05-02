@@ -1,8 +1,8 @@
 # МИПиС
 ## mod-lab07-lstm
 
-![GitHub pull requests](https://img.shields.io/github/issues-pr/UNN-IASR/mod-lab07-lastm)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/UNN-IASR/mod-lab07-lastm)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/UNN-IASR/mod-lab07-lstm)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/UNN-IASR/mod-lab07-lstm)
 
 Срок выполнения задания:
 
