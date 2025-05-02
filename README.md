@@ -17,8 +17,10 @@
 
 ### Краткие сведения из теории
 
-- [Как понять LSTM сети](http://alexsosn.github.io/ml/2015/11/17/LSTM.html)
+- [LSTM – сети долгой краткосрочной памяти][http://alexsosn.github.io/ml/2015/11/17/LSTM.html](https://habr.com/ru/companies/wunderfund/articles/331310/)
 - [Как устроены рекуррентные нейросети с долгой краткосрочной памятью](https://sysblok.ru/knowhow/mama-myla-lstm-kak-ustroeny-rekurrentnye-nejroseti-s-dolgoj-kratkosrochnoj-pamjatju/)
+- [Долгая краткосрочная память](https://neerc.ifmo.ru/wiki/index.php?title=Долгая_краткосрочная_память)
+  
 
 ### Посимвольная реализация
 
